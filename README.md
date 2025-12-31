@@ -21,4 +21,7 @@ This project is made for learning:
 - Rendering lists
 - Basic component logic
 
+## 🌐 Live Link 
+https://react-notes-app-two-ruddy.vercel.app/
+
 ## Made with ❤️ while learning React
